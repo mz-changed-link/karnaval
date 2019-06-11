@@ -1,0 +1,29 @@
+.plan_item_title{
+    margin-top: 10px;
+    font-size:13px;
+    font-family:'BYekan';
+}
+.plan_item_date{
+    font-size:10px;
+    font-family:'BYekan';
+}
+.plan_logo{
+    margin-top: 20px;
+}
+.plan_item_container{
+    margin-top:20px;
+    margin-bottom:10px;
+}
+.plan_item_image{
+    border-radius: 9px !important;
+}
+.bottom_line::after{
+    right: 6%;
+      width: 88%;
+      
+      content: '';
+      display: block;
+      position: absolute;
+      border-top: 1px solid;
+      border-top-color: rgba(0, 0, 0, 0.12);
+  }

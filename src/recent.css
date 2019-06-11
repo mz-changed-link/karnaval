@@ -1,0 +1,35 @@
+.recent_media_image_border{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+}
+.recent_media_image_border_top_right{
+    border-top-right-radius: 10px;
+    
+}
+.recent_media_big_picutre{
+    width:100%;
+}
+
+.continue_button{
+    margin-top: 20px;
+    width:110px;
+    padding:0px !important;
+    margin:0px !important;
+    background-color: #35b995 !important;
+    color:white !important;
+    font-size:15px;
+    font-family:'BYekan';
+
+}
+.continue_button_container{
+    padding-bottom: 3%;
+    margin-top:13px;
+    margin-right: 13% !important;
+}
+
+.recent_small_icons{
+    width:auto;
+    height:25px;
+    color:white;
+}
